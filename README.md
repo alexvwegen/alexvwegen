@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexvwegen
-- 👀 I’m interested in audio processing, machine learning and data science.
-- 🌱 I’m currently learning pytorch, c# and .NET. 
-- 💞️ I’m looking to collaborate on audio ai projects.
+- 👀 I’m interested in audio processing, generative stuff and machine learning.
+- 💞️ I’d like to develop unique generative algorithms and small machine learning applications.
 - 📫 How to reach me ...
 
 <!---
